@@ -6,6 +6,7 @@
 }
 body{
   background:url('https://img.freepik.com/free-vector/happy-halloween-wallpaper-design_52683-44541.jpg?size=626&ext=jpg&ga=GA1.2.1520075182.1602547200');
+  background-size:cover;
 }
 .middle{
   position: absolute;

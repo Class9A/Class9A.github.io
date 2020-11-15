@@ -30,7 +30,7 @@
 }
  @media (min-width: 800px) {
 	 .page-content {
-		 grid-template-columns: repeat(4, 1fr);
+		 grid-template-columns: repeat(2, 1fr);
 	}
 }
  .card {
@@ -163,4 +163,9 @@
 		 transition-duration: 0s;
 	}
 }
- 
+main {
+	display: flex;
+	flex-flow: row wrap;
+	align-items: center;
+	justify-content: center;
+ }
